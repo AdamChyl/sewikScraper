@@ -1,0 +1,5 @@
+bs4==0.0.2
+pandas==2.2.1
+PyQt5==5.15.10
+requests==2.31.0
+selenium==4.19.0
